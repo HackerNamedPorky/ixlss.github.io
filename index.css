@@ -1,0 +1,30 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-text {
+  top: 65px;
+  left: 164px;
+  position: absolute;
+  font-size: 35px;
+}
+.home-textinput {
+  top: 118px;
+  left: 157px;
+  width: 297px;
+  height: 49px;
+  position: absolute;
+}
+.home-link {
+  top: 193px;
+  left: 149px;
+  width: 120px;
+  height: 46px;
+  position: absolute;
+  text-decoration: none;
+}
